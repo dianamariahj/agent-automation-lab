@@ -2,7 +2,7 @@
 
 A collection of experiments, workflows, and practical projects focused on AI agents, workflow automation, and building systems that support real work.
 
-This repo is where I explore how AI can be used to help with things like research, decision-making, documentation, productivity, cybersecurity processes, and everyday operational tasks using structured workflows and agent-based approaches.
+This repository is where I explore how AI can be applied to tasks such as research, decision-making, documentation, productivity, cybersecurity processes, and day-to-day operations using structured workflows and agent-based systems.
 
 ---
 
@@ -10,29 +10,30 @@ This repo is where I explore how AI can be used to help with things like researc
 
 The goal of this repository is to design, test, document, and refine AI-powered workflows that solve real problems.
 
-This is not just about building tools. It is about figuring out how AI actually fits into day-to-day work.
+This is not just about building tools. It is about understanding how AI fits into everyday workflows, where it provides value, and where human oversight is still necessary.
 
-A lot of the focus is on:
+A key focus is on:
 
-* where agents are useful
-* where they fall short
-* and how to design workflows that people can realistically use
+* Where agents are useful
+* Where they fall short
+* How to design systems that people can realistically rely on
+* How automation can improve efficiency without sacrificing quality
 
 ---
 
 ## Areas of Focus
 
 * AI agent design
-* workflow automation
-* prompt engineering
-* human-in-the-loop systems
-* multi-step reasoning
-* tool integration and orchestration
-* process improvement
-* decision support
-* documentation workflows
-* research workflows
-* cybersecurity use cases
+* Workflow automation
+* Prompt engineering
+* Human-in-the-loop systems
+* Multi-step reasoning
+* Tool integration and orchestration
+* Process improvement
+* Decision support
+* Documentation workflows
+* Research workflows
+* Cybersecurity use cases
 
 ---
 
@@ -40,23 +41,23 @@ A lot of the focus is on:
 
 ### Research and Analysis Agents
 
-Agents that gather information, summarize results, compare sources, and highlight useful insights.
+Agents that gather information, summarize findings, compare sources, and highlight useful insights.
 
 ### Documentation Agents
 
-Workflows that help create reports, procedures, knowledge base content, and technical documentation.
+Workflows that support the creation of reports, procedures, knowledge base content, and technical documentation.
 
 ### Productivity and Organization
 
-Systems that help manage tasks, organize information, and reduce repetitive work.
+Systems designed to manage tasks, organize information, and reduce repetitive work.
 
 ### Cybersecurity Workflows
 
-Agent-supported processes for things like incident response preparation, investigations, vulnerability tracking, access reviews, and compliance-related work.
+Agent-supported processes such as incident response preparation, investigations, vulnerability tracking, access reviews, and compliance-related activities.
 
 ### Career and Learning Assistants
 
-Workflows focused on professional development, job research, skill tracking, and learning plans.
+Workflows that support professional development, job research, skill tracking, and learning plans.
 
 ---
 
@@ -67,7 +68,7 @@ Workflows focused on professional development, job research, skill tracking, and
 * Research and Summarization Agent
 * Resume and Job Application Assistant
 * Technical Documentation Assistant
-* Multi-agent Collaboration Experiments
+* Multi-Agent Collaboration Experiments
 * Knowledge Management Workflows
 * Personal Productivity Systems
 
@@ -77,33 +78,43 @@ Workflows focused on professional development, job research, skill tracking, and
 
 ### Human Oversight
 
-AI outputs should be reviewed before decisions are made or actions are taken.
+AI-generated outputs should be reviewed before decisions are made or actions are taken.
 
 ### Transparency
 
-Workflows should be clear, documented, and easy to follow.
+Workflows should be clear, documented, and easy to understand.
 
 ### Practicality
 
-Projects should solve actual problems, not just demonstrate concepts.
+Projects should solve real problems rather than simply demonstrate concepts.
 
 ### Continuous Improvement
 
-Everything here is meant to be tested, adjusted, and improved over time.
+Workflows are intended to be tested, refined, and improved over time.
 
 ---
 
 ## Technologies and Concepts
 
-* Large language models (LLMs)
-* AI agents
-* workflow automation
-* prompt design
-* retrieval-based workflows
-* human-in-the-loop review
-* process mapping
-* decision support
-* evaluation and testing approaches
+* Large Language Models (LLMs)
+* AI Agents
+* Workflow Automation
+* Prompt Design
+* Retrieval-Augmented Workflows
+* Human-in-the-Loop Review
+* Process Mapping
+* Decision Support
+* Evaluation and Testing Frameworks
+
+---
+
+## Repository Goals
+
+* Build practical experience designing AI-assisted workflows
+* Explore real-world applications of AI agents and automation
+* Document experiments, findings, and lessons learned
+* Better understand where AI can improve workflows and where human oversight remains important
+* Build a portfolio of agent-based systems and workflow designs
 
 ---
 
@@ -111,4 +122,4 @@ Everything here is meant to be tested, adjusted, and improved over time.
 
 This is an active lab.
 
-Things are constantly being tested, updated, or reworked as I explore different ways to build useful AI-assisted workflows and agent-based systems.
+Projects are continuously updated as I explore different approaches to building useful AI-assisted workflows, automation systems, and agent-based solutions.
